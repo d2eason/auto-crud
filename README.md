@@ -15,4 +15,5 @@ A library for creating CRUD dotnet core controllers.
 - [x] Support domain events? 
 - [ ] Support caching? 
 - [ ] Support CQRS?
-- [ ] Break out swagger stuff? i.e. `.AddSwagger()`
+- [x] Break out swagger stuff? i.e. `.AddSwagger()` 
+  - not going to do this at this point in time due to complexity 
